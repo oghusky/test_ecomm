@@ -1,3 +1,4 @@
+console.log("app js")
 const store_name = "https://docs.google.com/spreadsheets/d/e/2PACX-1vRBXCbGLhazNH7hNsSXjUlLKDuaM1dWbIQ0pRFGdYXYaJReEHbrGB0Sejj6IkEUvrniXjkHqhKdxzi4/pub?gid=0&single=true&output=csv"
 const item_info = "https://docs.google.com/spreadsheets/d/e/2PACX-1vRBXCbGLhazNH7hNsSXjUlLKDuaM1dWbIQ0pRFGdYXYaJReEHbrGB0Sejj6IkEUvrniXjkHqhKdxzi4/pub?gid=507965659&single=true&output=csv"
 const form_url = "https://docs.google.com/forms/u/0/d/1W9c7PMJYYudHuudrwF2zDthSOz6zLJR3_1iKjZwTsoU/prefill"
