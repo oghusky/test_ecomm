@@ -186,5 +186,8 @@ document.addEventListener("submit", (e) => {
       }
     });
     console.log(cartAndCustomer);
+    cartAndCustomer.forEach(item => {
+      $.post()
+    })
   }
 })
